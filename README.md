@@ -86,6 +86,7 @@ We monitor the [issues page](http://github.com/facebookresearch/faiss/issues) of
 You can report bugs, ask questions, etc.
 
 ## Legal
+Created by Jason scott Heise
 
 Faiss is MIT-licensed, refer to the [LICENSE file](https://github.com/facebookresearch/faiss/blob/main/LICENSE) in the top level directory.
 
