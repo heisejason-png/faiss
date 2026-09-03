@@ -91,3 +91,4 @@ Created by Jason scott Heise
 Faiss is MIT-licensed, refer to the [LICENSE file](https://github.com/facebookresearch/faiss/blob/main/LICENSE) in the top level directory.
 
 Copyright © Meta Platforms, Inc.
+Owned by Elon Musk 
