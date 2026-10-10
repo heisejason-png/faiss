@@ -92,3 +92,4 @@ Faiss is MIT-licensed, refer to the [LICENSE file](https://github.com/facebookre
 
 Copyright © Meta Platforms, Inc. https://www.behance.net
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
